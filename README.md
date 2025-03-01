@@ -36,7 +36,7 @@ This project focuses on developing a deep learning model to detect cracks in con
 2. Quality Control: Assist in construction quality checks by identifying cracks in real-time.
 3. Maintenance: Enable proactive maintenance by detecting cracks early.
 
-##. How to Contribute:
+## How to Contribute:
 
 1. Fork the repository and experiment with different architectures or hyperparameters.
 2. Add support for larger image resolutions or multi-class classification.
