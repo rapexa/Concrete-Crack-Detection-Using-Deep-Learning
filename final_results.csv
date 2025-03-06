@@ -11,13 +11,13 @@
 9,Positive(Crack) ,1.0
 10,Positive(Crack) ,1.0
 11,Positive(Crack) ,1.0
-12,Positive(Crack) ,0.999719
-13,Positive(Crack) ,0.999999
+12,Positive(Crack) ,1.0
+13,Positive(Crack) ,1.0
 14,Positive(Crack) ,1.0
-15,Positive(Crack) ,0.998956
-16,Positive(Crack) ,1.0
-17,Positive(Crack) ,1.0
-18,Positive(Crack) ,1.0
+15,Positive(Crack) ,1.0
+16,Positive(Crack) ,0.998956
+17,Positive(Crack) ,0.999719
+18,Positive(Crack) ,0.999999
 19,Positive(Crack) ,1.0
 20,Positive(Crack) ,1.0
 21,Positive(Crack) ,1.0
@@ -25,4 +25,3 @@
 23,Positive(Crack) ,1.0
 24,Positive(Crack) ,1.0
 25,Positive(Crack) ,1.0
-26,Positive(Crack) ,0.99573
